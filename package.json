@@ -70,7 +70,7 @@
   "bugs": {
     "url": "https://github.com/gndx/platzi-store/issues"
   },
-  "homepage": ".",
+  "homepage": "https://abc1196.github.io/platzi-store",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [
